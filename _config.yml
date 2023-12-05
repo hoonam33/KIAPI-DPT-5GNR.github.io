@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/proving ground.png'
 background:         'assets/img/pg_jpg.jpg'
-tiled_bg:           true
+tiled_bg:           false
 locale:             en_US
 url:                https://hoonam33.github.io/KIAPI-DPT-5GNR.github.io/
 
