@@ -4,7 +4,7 @@ bio:                '5G-NR-V2X'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/ggg.jpg'
+logo:               'assets/img/ggg.png'
 background:         'assets/img/pg_jpg.jpg'
 tiled_bg:           false
 locale:             en_US
